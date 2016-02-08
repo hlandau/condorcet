@@ -1,4 +1,4 @@
-// Warning, insufficiently tested alpha software.
+// Package condorcet implements voting methods which satisfy the Condorcet criterion.
 package condorcet
 
 import "sort"
